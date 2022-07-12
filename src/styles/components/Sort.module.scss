@@ -1,0 +1,47 @@
+.sort {
+  margin-bottom: 10px;
+  ul {
+    display: flex;
+    align-items: center;
+    li {
+      cursor: pointer;
+
+    }
+
+    li:nth-child(1) {
+      display: flex;
+      align-items: center;
+      min-width: 300px;
+      width: 465px;
+      max-width: 465px;
+      background: var(--gpStoreDarkBlack);
+      padding: 5px;
+      font-size: 12px;
+    }
+    li:nth-child(2) {
+      display: flex;
+      justify-content: center;
+      min-width: 30px;
+      width: 81px;
+      max-width: 81px;
+      background: var(--gpStoreDarkBlack);
+      padding: 5px;
+      font-size: 12px;
+      border-left: 1px solid gray;
+      border-right: 1px solid gray;
+    }
+    li:nth-child(3) {
+      display: flex;
+      justify-content: center;
+      min-width: 30px;
+      width: 91px;
+      max-width: 91px;
+      background: var(--gpStoreDarkBlack);
+      padding: 5px;
+      font-size: 12px;
+    }
+    li:hover {
+      background: var(--gpColor-DustyBlue);
+    }
+  }
+}

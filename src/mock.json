@@ -1,0 +1,84 @@
+{
+  "steam-store-items": [
+    {
+      "id": 0,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQxnaecIT8Wv9rilYTYkfTyNuiFwmhUvpZz3-2Z9oqg0Vew80NvZzuiJdeLMlhpwFO-XdA/62fx62f",
+      "name": "Recoil Case",
+      "price": 122,
+      "value": 444,
+      "imgBig": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQxnaecIT8Wv9rilYTYkfTyNuiFwmhUvpZz3-2Z9oqg0Vew80NvZzuiJdeLMlhpwFO-XdA/360fx360f"
+    },
+    {
+      "id": 1,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/62fx62f",
+      "name": "Кейс «Грёзы и кошмары»",
+      "price": 28,
+      "value": 41421,
+      "imgBig":"https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/360fx360f"
+    },
+    {
+      "id": 2,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08ykm4aOhOT9PLXQmlRc7cF4n-SP8dyhiwK1_xU4ajygIdSdJgVoMlzRrFTqlea5hpK66ZvNmnI3vHUk4WGdwUJBbIpZ4g/62fx62f",
+      "name": "AK-47 | Сланец",
+      "price": 68,
+      "value": 1421,
+      "imgBig": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08ykm4aOhOT9PLXQmlRd4cJ5ntbN9J7yjRqw-0o4ZWvwcIbEdQQ7Ml7Tr1nvwufvgMC6us-bmHZi6HEgsCvYlkC_n1gSOasHEuYf/360fx360f"
+    },
+    {
+      "id": 3,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITck29Y_cg_i-rHoYrw3VLs_RZlZ2umLYSTdQc_Zl7ZrwPoxefp18Du7Z-bwHZh6z5iuyiJTfqMXg/62fx62f",
+      "name": "AK-47 | Ледяной уголь",
+      "price": 1441,
+      "value": 1421,
+      "imgBig": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITZk2pH8fp9i_vG8MKt3FW18xc9YmygJY7BIw4-MF3W-FC3kua5hZe_7czOnCdjsiEi4CyPgVXp1rT8Wct7/360fx360f"
+    },
+    {
+      "id": 4,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8/62fx62f",
+      "name": "Ключ от кейса операции «Гидра»",
+      "price": 60,
+      "value": 1921,
+      "imgBig":"https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8/360fx360f"
+    },
+    {
+      "id": 5,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924gYKChMj5Nr_Yg2YfsZF3i7CUoduhiVLm-hFrMTinItWTcAA9aV_R-1fow-fn0ZK87pXJm2wj5Hdb0mwi-A/62fx62f",
+      "name": "AK-47 | Легион Анубиса",
+      "price": 500,
+      "value": 7577,
+      "imgBig": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924gYKChMj5Nr_Yg2Zu5MRjjeyPrNjziQ3h_0RoMj_xJdSSIFdqZwvW-Fe9yenuhJDqvpTBnXZj6Cgit2GdwUIbM6Z52A/360fx360f"
+    },
+    {
+      "id": 6,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08u_mpSOhcjnI7TDglRc7cF4n-SP8I6g2gW2r0RtZmjxLYfDIQ46Ml_X_QPtwb-8g5S46ZXKnXU2uiZwtGGdwUI5DKpcCA/62fx62f",
+      "name": "AK-47 | Снежный вихрь",
+      "price": 542,
+      "value": 476,
+      "imgBig":"https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08u_mpSOhcjnI7TDglRc7cF4n-T--Y3nj1H6rhFpYWihcIGUdwc8aFmGqVm6kunogsTvvMyaz3Bn7yghsXiInxPl0AYMMLKjE_A1sw/360fx360f"
+    },
+    {
+      "id": 7,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08ykm4aOhOT9PLXQmlRd4cJ5nqfFpdXx3gbnr0M9ZGv2d4CWJw5vYlHQ_we4x7y91JK97szLnCZms3Uq-z-DyJQpVI_m/62fx62f",
+      "name": "AK-47 | Сланец",
+      "price": 242,
+      "value": 4176,
+      "imgBig": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08ykm4aOhOT9PLXQmlRd4cJ5ntbN9J7yjRqw-0o4ZWvwcIbEdQQ7Ml7Tr1nvwufvgMC6us-bmHZi6HEgsCvYlkC_n1gSOasHEuYf/360fx360f"
+    },
+    {
+      "id": 8,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-GkvP9JrafzzxUvMF0ib6Z9NSg0Abg_kc9MGn2cdeSclA2Ml_R_AK9xOvrhsC76YOJlyWzRFT-mw/62fx62f",
+      "name": "AWP | Мортис",
+      "price": 60,
+      "value": 41176,
+      "imgBig": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-GkvP9JrbummpD78A_077EoYjwiwPsqktpa2v3IYLEIQY7NAnX-ge2kunug8W_uZjNyiRk7z5iuyihMO8qww/360fx360f"
+    },
+    {
+      "id": 9,
+      "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j3Jq_um25V4dB8xOrD94_x2FG1_EtrMWH0coSXIAM9N17W_Qfowua61MTtup7KyXBiuSc8pSGK2ECXxGs/62fx62f",
+      "name": "USP-S | Извилины",
+      "price": 69,
+      "value": 4117,
+      "imgBig": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j3Jq_um25V4dB8teXA54vwxle2qRA4YzyiI46SIA45N1rSqFS9l-jpgsDqv5WcmCAyvCMh5X3cnBKpwUYblsbKgI4/360fx360f"
+    }
+  ]
+}

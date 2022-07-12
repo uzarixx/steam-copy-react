@@ -1,0 +1,68 @@
+.card {
+  margin-bottom: 10px;
+  display: flex;
+  background: var(--gpStoreDarkBlack);
+  max-width: 638px;
+  align-items: center;
+  padding: 5px;
+  justify-content: space-between;
+  border: 1px solid transparent;
+&:hover {
+  border: 1px solid var(--gpColor-DustyBlue);
+}
+  &__left {
+    display: flex;
+    align-items: center;
+
+    .img {
+      margin-right: 7px;
+      width: 64px;
+      height: 64px;
+      border: 1px solid var(--defaulFont);
+    }
+
+    .info {
+      b {
+        font-size: 14px;
+        font-family: 'Arial', sans-serif;
+        font-weight: 600;
+        line-height: 16px;
+      }
+
+      p {
+        font-size: 11px;
+        color: var();
+      }
+    }
+  }
+
+  &__right {
+    display: flex;
+
+    .amount {
+      justify-content: center;
+      display: flex;
+      align-items: center;
+
+      min-width: 30px;
+      width: 81px;
+      max-width: 81px;
+
+      p {
+        font-size: 12px;
+      }
+    }
+
+    .price {
+      text-align: center;
+
+      min-width: 30px;
+      width: 91px;
+      max-width: 91px;
+
+      b {
+        font-size: 12px;
+      }
+    }
+  }
+}
